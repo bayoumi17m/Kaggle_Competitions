@@ -1,6 +1,6 @@
 # Kaggle_Competitions
 
-Kaggle Competition  | Data and Preprocessing | Model(s) Used
+Kaggle Competition  | Special Data and Preprocessing | Model(s) Used
 ------------- | ------------- | -------------
-Titanic  | Content Cell  | Random Forest Classifier
-Content Cell  | Content Cell  | Content Cell
+Titanic  | N/A  | Random Forest Classifier
+Santa Matching  | N/A  | Google-OR tools and Hungarian Method
